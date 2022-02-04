@@ -1,0 +1,20 @@
+{
+    "anims": {
+        "anilist": {
+            "name" : "AniList",
+            "url" : "https://anilist.co/"
+        }
+    },
+    "food": {},
+    "movies": {},
+    "weather": {
+        "weatherstack": {
+            "name": "Weather Stack",
+            "url": "https://weatherstack.com/"
+        },
+        "mapbox": {
+            "name": "Map Box",
+            "url": "https://account.mapbox.com/"
+        }
+    }
+}
